@@ -1,0 +1,19 @@
+/**navbar**/
+
+.profile{
+    color: white !important;
+}
+
+/**body**/
+*{
+    direction: rtl;
+    text-align: right;
+}
+body{
+    background-color: #e8e1e1;
+    color: #3d3c3c;
+    font-family: 'Tajawal', sans-serif;
+}
+.container-fluid{
+    margin-top: 70px;
+}

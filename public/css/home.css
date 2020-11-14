@@ -1,0 +1,45 @@
+/*nav*/
+.home {
+    color: white!important;
+}
+/******Body************/
+body{
+    background-color: #e8e1e1;
+    color: #3d3c3c;
+    font-family: 'Tajawal', sans-serif;
+}
+#container{
+    padding: 20px;
+}
+#container hr{
+    background-color: #3d3c3c;
+}
+a{
+    color:#3d3c3c ;
+}
+a:hover{
+    text-decoration: none;
+    color:#3d3c3c ;
+}
+
+.bigtitle{
+    border-bottom: solid 1px black;
+}
+.title{
+    font-size: 30px;
+}
+#carouselExampleInterval{
+    margin-top: 30px;
+}
+.card-title{
+    font-size: 20px;
+}
+.card{
+    height: 330px;
+width: 300px;
+    overflow-y: hidden;
+}
+.card-img-top{
+    height: 150px!important;
+    border: none;
+}

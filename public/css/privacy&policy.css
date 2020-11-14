@@ -1,0 +1,33 @@
+body {
+    direction: rtl;
+    text-align: right;
+    background-color: #e8e1e1;
+    color: #3d3c3c;
+    font-family: 'Tajawal', sans-serif;
+    margin-left: 180px;
+    overflow-x: hidden;
+}
+
+.container-fluid {
+}
+
+.bigtitle {
+    font-size: 80px;
+
+}
+
+.mediumtitle {
+    font-size: 60px;
+    text-decoration: underline;
+    margin-right: 80px;
+}
+.minititle{
+    font-size: 40px;
+    margin-right: 80px;
+
+}
+.text{
+    margin-right: 80px;
+    font-size: 20px;
+
+}
