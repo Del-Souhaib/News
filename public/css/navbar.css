@@ -1,0 +1,29 @@
+/********Navbar********/
+
+.navbar {
+    background-color: #214694 !important;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar .dropdown-menu {
+    background-color: #214694 !important;
+
+}
+.nav-item{
+    height: 46px;
+}
+.navbar button {
+    color: white !important;
+}
+.dropdown{
+    cursor: pointer;
+}
+.nav-link{
+    cursor: pointer;
+}
+.navbar-dark .navbar-toggler{
+    border-color: transparent !important;
+}

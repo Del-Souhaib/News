@@ -1,0 +1,10 @@
+.home,.profile,.users,.posts,.comments,.messages{
+    display: none;
+}
+
+.nav-item:hover {
+background-color: #0e9f6e
+}
+.nav-item:hover .home,.nav-item:hover .profile,.nav-item:hover .posts,.nav-item:hover .users,.nav-item:hover .comments,.nav-item:hover .messages{
+    display: block;
+}

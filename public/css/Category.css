@@ -1,0 +1,33 @@
+* {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Tajawal', sans-serif;
+
+}
+main{
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+main .card-title{
+    font-size: 20px;
+
+}
+main .card{
+    height: 330px;
+    width: 300px;
+    overflow-y: hidden;
+}
+main .card-img-top{
+    height: 150px!important;
+    border: none;
+}
+main a:hover{
+    text-decoration: none;
+    color: #2d3748;
+}
+main .title{
+    font-size: 45px;
+    text-decoration: underline;
+}

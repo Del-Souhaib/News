@@ -1,0 +1,66 @@
+/******Footer******/
+footer {
+    background-color: #214694;
+    color: white;
+}
+
+footer ul {
+    list-style: none;
+
+}
+
+footer hr {
+    background-color: white;
+    border-color: white;
+}
+footer a,footer a:hover{
+    color:white ;
+}
+/*Social*/
+
+footer .facebook{
+    padding: 40px;
+
+}
+footer .youtube{
+    padding: 40px;
+}
+footer .instagram{
+    padding: 40px;
+}
+@media only screen and (max-width:388px) {
+    footer .facebook{
+        padding: 20px;
+
+    }
+    footer .youtube{
+        padding: 20px;
+    }
+    footer .instagram{
+        padding: 20px;
+    }
+
+}
+footer .facebook:hover{
+    background-color: #3f83f8;
+
+}
+footer .youtube:hover{
+    background-color: red;
+
+}
+footer .instagram:hover{
+    background-color: hotpink;
+
+}
+footer .instagram img{
+    fill: #3f83f8;
+}
+
+footer img{
+    max-height: 40px;
+    max-width: 40px;
+}
+footer .contact{
+    cursor: pointer;
+}

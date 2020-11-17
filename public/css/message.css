@@ -1,0 +1,45 @@
+/*navbar*/
+.contact {
+    color: white !important;
+}
+
+.container1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+.social:hover {
+    transform: scale(1.4, 1.4);
+}
+
+/**message form**/
+form #mail, form #name, form #message {
+    border-color: #9e9a9a;
+    border-radius: 4px;
+    border-width: 1px;
+    height: 37px;
+}
+form #mail, form #name {
+    height: 33px;
+}
+form #send {
+    background-color: #9e9a9a;
+    border-radius: 4px;
+    width: 120px;
+    height: 40px;
+    border: none;
+    color: white;
+}
+form #send:hover{
+    background-color: #6b6666;
+}
+form #mail:hover, form #name:hover, form #message:hover{
+    border-color:#6b6666 ;
+}
+form #message{
+    min-height: 70px;
+}

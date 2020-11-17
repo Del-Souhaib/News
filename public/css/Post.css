@@ -1,0 +1,78 @@
+*  {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Tajawal', sans-serif;
+}
+main{
+    margin-top: 100px;
+    color: #444141;
+
+}
+main .container-fluid .post .postimage {
+    height: 80vh;
+    width: 100vw;
+}
+
+main .container-fluid .Title {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+main .container-fluid .text {
+    font-size: 25px;
+}
+
+main .container-fluid .swiper-container {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main .container-fluid .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+/***Related****/
+main .container-fluid .card-title{
+    font-size: 30px;
+}
+main .container-fluid a:hover{
+    color: #2d3748;
+    text-decoration: none;
+}
+main .related{
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+main .date{
+    direction: rtl;
+}
+main .post{
+    border-left: solid 1px gray;
+}
+main hr{
+    color: gray;
+    background-color: gray;
+    border-color: gray;
+}
+
+main .CommentUser{
+    font-size: 30px;
+}
